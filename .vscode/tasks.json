@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "npm-build-dashboard-ui",
+			"type": "shell",
+			"command": "cd dashboard-ui && npm run build",
+			"problemMatcher": [
+				"$tsc"
+			]
+		},
+		{
+			"label": "npm-build-dashboard-ui",
+			"type": "shell",
+			"command": "cd dashboard-ui && npm install && npm run build",
+			"problemMatcher": [
+				"$tsc"
+			]
+		}
+	]
+}

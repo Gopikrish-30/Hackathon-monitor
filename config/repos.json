@@ -1,0 +1,18 @@
+[
+    {
+        "team_name": "Team Alpha",
+        "repo_url": "https://github.com/octocat/Hello-World"
+    },
+    {
+        "team_name": "Team Beta",
+        "repo_url": "https://github.com/octocat/Spoon-Knife"
+    },
+    {
+        "team_name": "Team seta",
+        "repo_url": "https://github.com/Gopikrish-30/Hacktide"
+    },
+    {
+        "team_name": "Team gamma",
+        "repo_url": "https://github.com/Gopikrish-30/gemini-cli"
+    }
+]
