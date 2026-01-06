@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm install && npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
+}
