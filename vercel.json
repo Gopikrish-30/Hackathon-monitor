@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npm install && npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": "dist",
+  "installCommand": "cd dashboard-ui && npm install",
+  "buildCommand": "cd dashboard-ui && npm run build",
+  "outputDirectory": "dashboard-ui/dist",
   "framework": "vite",
   "git": {
     "deploymentEnabled": {
