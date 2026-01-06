@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+dashboard-ui/node_modules/
+
+# Build outputs
+dist/
+dashboard-ui/dist/
+
+# Environment files
+.env
+.env.*
+dashboard-ui/.env
+dashboard-ui/.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/system files
+.vscode/
+.idea/
+.DS_Store
